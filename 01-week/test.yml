@@ -1,0 +1,9 @@
+- string
+- 1
+- 2
+- 3
+- ip_addr: 10.1.1.1
+  model: '3800'
+  platform: cisco_ios
+  vendor: cisco
+- string2
